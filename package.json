@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "dev": "sass -w --no-source-map --style compressed public/scss/styles.scss public/build/styles.css"
+    },
+    "devDependencies": {
+        "sass-embedded": "^1.79.4"
+    }
+}
